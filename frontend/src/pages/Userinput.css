@@ -1,0 +1,15 @@
+.button{
+    padding:1em 2em;
+    border:none;
+    font-size: 1rem;
+    background-color: blueviolet;
+    border-radius: 0.5em;;
+    color: white;
+}
+div{
+    margin-top: 2rem;
+}
+input{
+    height: 2rem;
+    width: 200px;
+}
